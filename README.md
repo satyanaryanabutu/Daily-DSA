@@ -29,6 +29,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
 |  |
@@ -37,9 +38,14 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
