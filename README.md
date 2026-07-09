@@ -29,6 +29,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0735-asteroid-collision](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
@@ -38,12 +39,14 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
