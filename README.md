@@ -30,6 +30,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
@@ -61,4 +62,20 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0402-remove-k-digits) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
