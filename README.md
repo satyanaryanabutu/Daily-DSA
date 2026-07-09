@@ -58,10 +58,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0402-remove-k-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0402-remove-k-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -78,4 +80,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
