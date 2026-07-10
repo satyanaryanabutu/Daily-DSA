@@ -32,6 +32,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0704-binary-search) |
@@ -139,5 +140,6 @@ Happy Coding! 🚀
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
