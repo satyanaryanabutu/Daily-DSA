@@ -10,23 +10,23 @@ class Solution {
             nums[i] = i;
         }
 
-        int count = 0;
+        int c = 0;
 
         for (int i = 1; i <= l; i++) {
 
-            boolean found = false;
+            boolean f = false;
 
             for (int j = 0; j < arr.length; j++) {
                 if (nums[i] == arr[j]) {
-                    found = true;
+                    f = true;
                     break;
                 }
             }
 
-            if (!found) {
-                count++;
+            if (!f) {
+                c++;
 
-                if (count == k) {
+                if (c == k) {
                     return nums[i];
                 }
             }
