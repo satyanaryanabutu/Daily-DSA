@@ -39,6 +39,7 @@ Happy Coding! 🚀
 | [0540-single-element-in-a-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
@@ -147,5 +148,6 @@ Happy Coding! 🚀
 | [0162-find-peak-element](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
