@@ -32,6 +32,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
@@ -130,6 +131,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0451-sort-characters-by-frequency](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Sorting
@@ -160,9 +162,15 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
