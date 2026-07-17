@@ -169,6 +169,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0700-search-in-a-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -176,6 +177,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0700-search-in-a-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -186,4 +188,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
