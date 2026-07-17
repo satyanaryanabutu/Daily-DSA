@@ -111,6 +111,7 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -166,6 +167,7 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -174,6 +176,7 @@ Happy Coding! 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -191,5 +194,6 @@ Happy Coding! 🚀
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
