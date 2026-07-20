@@ -41,6 +41,7 @@ Happy Coding! 🚀
 | [0540-single-element-in-a-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -82,6 +83,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0402-remove-k-digits) |
+| [0860-lemonade-change](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
