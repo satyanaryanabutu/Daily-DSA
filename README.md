@@ -114,16 +114,19 @@ Happy Coding! 🚀
 | [0098-validate-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -199,4 +202,8 @@ Happy Coding! 🚀
 | [0098-validate-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
