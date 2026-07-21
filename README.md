@@ -36,6 +36,7 @@ Happy Coding! 🚀
 | [0084-largest-rectangle-in-histogram](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0135-candy](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
@@ -88,6 +89,7 @@ Happy Coding! 🚀
 | ------- |
 | [0045-jump-game-ii](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0402-remove-k-digits) |
 | [0860-lemonade-change](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1903-largest-odd-number-in-string) |
