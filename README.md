@@ -37,6 +37,7 @@ Happy Coding! 🚀
 | [0084-largest-rectangle-in-histogram](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0130-surrounded-regions](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0162-find-peak-element) |
@@ -124,23 +125,27 @@ Happy Coding! 🚀
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0130-surrounded-regions](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
 ## String Matching
 |  |
