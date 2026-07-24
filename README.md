@@ -129,6 +129,7 @@ Happy Coding! 🚀
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
@@ -136,6 +137,7 @@ Happy Coding! 🚀
 | ------- |
 | [0130-surrounded-regions](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Union-Find
@@ -223,5 +225,10 @@ Happy Coding! 🚀
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
