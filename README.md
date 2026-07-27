@@ -53,6 +53,7 @@ Happy Coding! 🚀
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1539-kth-missing-positive-number) |
+| [3693-climbing-stairs-ii](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0120-triangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [3693-climbing-stairs-ii](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
