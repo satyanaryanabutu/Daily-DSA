@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | ------- |
 | [0045-jump-game-ii](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0120-triangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
@@ -117,6 +118,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -235,4 +237,8 @@ Happy Coding! 🚀
 | ------- |
 | [0207-course-schedule](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
