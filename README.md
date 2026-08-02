@@ -32,6 +32,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -61,6 +62,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0120-triangle) |
@@ -222,6 +224,7 @@ Happy Coding! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyanaryanabutu/Daily-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Linked List
